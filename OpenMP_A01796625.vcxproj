@@ -128,6 +128,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\omp-regiones-paralelas\RegionesParalelas\pch.cpp" />
     <ClCompile Include="OpenMP_A01796625.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
